@@ -1,21 +1,46 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: SHIPLOG MAURITANIE SARL
 image: /img/img-20190205-wa0007.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: SHIPPING – SERVICES – LOGISTICS - SURVEY
+subheading: SHIPPING – SERVICES – LOGISTICS - SURVEY
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  title: Why Shiplog
+  description: >+
+    This is to certify that the undersigned, BK TRANS located at Nouakchott in
+    Mauritania acting at the request of PANALPINA LTDA (CHARTERERS), had
+    accordingly appointed Shiplog Mauritanie SARL , Marine and Cargo Surveyors,
+    agreed by the Mauritanian Surveying Board, who went to the Port of
+    Nouakchott in order to control the discharge of the above mentioned
+    consignment:
+
+
+    In conjunction with all the other parties, our mission was to:
+
+
+    -    Attend the berthing of vessel
+
+    -    Verification of integrity of seals
+
+    -    Attend the opening of the hatch-covers and Inspection of the cargo
+    condition prior to discharge
+
+    -    Monitoring discharge and carrying out tally of a cargo of Pipes
+
+    -    Ascertaining the condition of the cargo to be discharged
+
+    -    Determining if any, the nature, the cause and the extent of any damage
+    suffered by the cargo
+
+    -    Photos reporting
+
+    -    Drawing up a daily report of
+    results                                                                                 
+    2
+
+    -    Issuance of a final report
+
+description: shiplog
 intro:
   blurbs:
     - image: /img/coffee.png
@@ -45,27 +70,19 @@ intro:
         space where you can hang out with fellow coffee lovers and learn about
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
-  heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+  heading: shiplog
+  description: shiplog
 main:
-  heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+  heading: fgfgghgfhgfh
+  description: shiplog
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    alt: shiplog
+    image: /img/img-20190205-wa0014.jpg
   image2:
-    alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    alt: shiplog
+    image: /img/img-20190205-wa0024.jpg
   image3:
-    alt: Coffee beans
-    image: /img/products-grid1.jpg
+    alt: shiplog
+    image: /img/img-20190205-wa0006.jpg
 ---
 

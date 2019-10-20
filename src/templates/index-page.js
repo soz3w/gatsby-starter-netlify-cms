@@ -38,6 +38,7 @@ export const IndexPageTemplate = ({
           justifyContent: 'space-around',
           alignItems: 'left',
           flexDirection: 'column',
+          marginRight: '250px',
         }}
       >
         <h1

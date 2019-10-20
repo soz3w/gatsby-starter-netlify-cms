@@ -12,7 +12,7 @@ mainpitch:
     accordingly appointed Shiplog Mauritanie SARL , Marine and Cargo Surveyors,
     agreed by the Mauritanian Surveying Board, who went to the Port of
     Nouakchott in order to control the discharge of the above mentioned
-    
+
     consignment
 
 
@@ -44,17 +44,17 @@ mainpitch:
 description: shiplog
 intro:
   blurbs:
-    - image: /img/coffee.png
-      text: >
+    - image: /img/IMG-20190205-WA0023.jpg
+      text: |
         text1 text1
-    - image: /img/coffee-gear.png
-      text: >
+    - image: /img/IMG-20190205-WA0031.jpg
+      text: |
         text2 text2
-    - image: /img/tutorials.png
-      text: >
+    - image: /img/IMG-20190205-WA0039.jpg
+      text: |
         text3 text3
-    - image: /img/meeting-space.png
-      text: >
+    - image: /img/IMG-20190205-WA0070.jpg
+      text: |
         text4 text4
   heading: shiplog
   description: shiplog

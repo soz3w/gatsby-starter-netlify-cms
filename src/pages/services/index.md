@@ -1,6 +1,6 @@
 ---
 templateKey: 'product-page'
-path: /products
+path: /services
 title: Our Services
 image: /img/jumbotron.jpg
 heading: Shiplog Services
